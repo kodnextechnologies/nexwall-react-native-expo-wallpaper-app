@@ -124,6 +124,7 @@ Then remove `EXPO_PUBLIC_NEXWALL_API_KEY` from `.env` and set `EXPO_PUBLIC_NEXWA
 - [Flutter wallpaper app](https://github.com/kodnextechnologies/nexwall-flutter-wallpaper-app)
 - [Android Kotlin wallpaper app (Jetpack Compose)](https://github.com/kodnextechnologies/nexwall-android-kotlin-wallpaper-app)
 - [Python client and CLI with a daily wallpaper changer](https://github.com/kodnextechnologies/nexwall-python)
+- [Web starter: Next.js / React, Laravel and plain JavaScript (API key kept server-side)](https://github.com/kodnextechnologies/nexwall-web-starter)
 
 ## License
 
