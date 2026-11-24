@@ -101,8 +101,8 @@ Full reference: [API docs](https://nexwall.kodnextech.com/wallpaper-api/docs) ·
 | Plan | Price | Requests per day | Content |
 | --- | --- | --- | --- |
 | Free | Free, no credit card | 100 | Non-premium static wallpapers |
-| Pro | ₹399 / $4.99 per month | 10,000 | Adds the premium static categories |
-| Ultra | ₹899 / $10.99 per month | 50,000 | Adds live (video) wallpapers (Ultra only) |
+| Pro | ₹449 / $5.49 per month | 10,000 | Adds the premium static categories |
+| Ultra | ₹949 / $11.49 per month | 50,000 | Adds live (video) wallpapers (Ultra only) |
 
 Commercial use (ads, subscriptions, in-app purchases, paid apps) is allowed on every plan, including Free, under the [NexWall Developer API License](https://nexwall.kodnextech.com/wallpaper-api/license).
 
